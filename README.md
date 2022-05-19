@@ -1,10 +1,10 @@
 # React!! -> list all restaurants
-This is website showing list of restaurants which is provided by MongoDB sample collections.
-It has the functions; seaching, showing maps when user click the restaurant.
+This is a website showing restaurants provided by MongoDB as a sample collection into the list.
+It has the functions; searching and showing maps when the user clicks the restaurant.
 
 # 리액트로 구현한 레스토랑 리스트
 몽고DB 에서 제공하는 sample_restaurant collection 데이터를 가져와 리스트로 구현한 사이트 입니다.
-(리파지토리 WEB422/web422_as3 와 같습니다.)
+(리파지토리 Seneca_WEB422/web422_as3 와 같습니다.)
 
 리스트는 10개를 기준으로 페이지를 넘길수 있으며
 각 레스토랑을 클릭했을때 맵과 세부정보를 보여주는 페이지로 이동합니다.
