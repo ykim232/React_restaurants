@@ -1,3 +1,29 @@
+# React!! -> list all restaurants
+This is website showing list of restaurants which is provided by MongoDB sample collections.
+It has the functions; seaching, showing maps when user click the restaurant.
+
+# 리액트로 구현한 레스토랑 리스트
+몽고DB 에서 제공하는 sample_restaurant collection 데이터를 가져와 리스트로 구현한 사이트 입니다.
+리스트는 10개를 기준으로 페이지를 넘길수 있으며
+각 레스토랑을 클릭했을때 맵과 세부정보를 보여주는 페이지로 이동합니다.
+Search 기능이 구현되어 있습니다.
+
+로딩중일때, 검색한 내용이 없는 경우에는 각 다른 컨텐츠를 띄웁니다. (ex. "Loading restaurant data..." or "No restaurant found...")
+
+![Screen Shot 2022-05-19 at 9 35 06 PM](https://user-images.githubusercontent.com/92243410/169296457-dedf89ab-88a2-457b-90c8-4bc482353280.png)
+
+![Screen Shot 2022-05-19 at 9 35 21 PM](https://user-images.githubusercontent.com/92243410/169296482-0735ed4c-4853-4412-9ffc-8fe33b60aa25.png)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
