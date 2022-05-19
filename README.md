@@ -4,10 +4,12 @@ It has the functions; seaching, showing maps when user click the restaurant.
 
 # 리액트로 구현한 레스토랑 리스트
 몽고DB 에서 제공하는 sample_restaurant collection 데이터를 가져와 리스트로 구현한 사이트 입니다.
+(리파지토리 WEB422/web422_as3 와 같습니다.)
+
 리스트는 10개를 기준으로 페이지를 넘길수 있으며
 각 레스토랑을 클릭했을때 맵과 세부정보를 보여주는 페이지로 이동합니다.
-Search 기능이 구현되어 있습니다.
 
+Search 기능이 구현되어 있습니다.
 로딩중일때, 검색한 내용이 없는 경우에는 각 다른 컨텐츠를 띄웁니다. (ex. "Loading restaurant data..." or "No restaurant found...")
 
 ![Screen Shot 2022-05-19 at 9 35 06 PM](https://user-images.githubusercontent.com/92243410/169296457-dedf89ab-88a2-457b-90c8-4bc482353280.png)
